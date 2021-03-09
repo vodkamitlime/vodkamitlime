@@ -1,7 +1,5 @@
 ## Life's short, you need wine and code :wine_glass:
 
-------------
-
 :octocat: Studying & interested in Web Backend, NLP, and Data Analysis
 
 ### Tech Stack
@@ -27,7 +25,6 @@
 <div align-center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvodkamitlime)](https://hits.seeyoufarm.com)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
   
 </div>
 
