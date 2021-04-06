@@ -1,4 +1,4 @@
-## Life's short, you need wine and code :wine_glass:
+## Life's short, you need python (and wine) :wine_glass:
 
 :octocat: Studying & interested in Web Backend, NLP, and Data Analysis
 
