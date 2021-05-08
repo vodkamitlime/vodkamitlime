@@ -4,7 +4,7 @@
 
 ### Tech Stack
 - 🛠 Languages & Framework : Python, Javascript, Django (+HTML/CSS) 
-- ⛏ Libraries : Tensorflow, Keras, Pandas, 
+- ⛏ Libraries : Tensorflow, Keras, React
 - 🔋 DataBase : SQLite
 
 
